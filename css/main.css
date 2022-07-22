@@ -1,0 +1,51 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header{
+    background-color: #DB241D;
+}
+
+.mfr{
+    padding: 0.4rem;
+    font-size: 2.5rem;
+}
+
+.bgNav{
+    background-color: #DB241D;
+}
+
+main{
+    background-image: url(../img/mujer\ compu.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+footer {
+    background-color: #DB241D;
+}
+
+.educacionP{
+    margin: 5rem 20rem 3rem 1rem;
+    padding-top: 10rem;
+}
+
+.iniciarSesion{
+    
+    padding: 1rem;
+}
+.iniciarSesionP{
+    text-decoration: none;
+    color: black;
+    margin: 5rem 20rem 3rem 1rem;
+    padding-top: 1.2rem;
+}
+
+.logo{
+    width: 20%;
+    margin: 5rem 20rem 3rem 1rem;
+    padding-top: 1.2rem;
+}
+
